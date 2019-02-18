@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/amiremohamadi/bash-mardom-azar/blob/master/screen-shot.png"></p>
+
 # What's this?!
 **bash-mardom-azar** (Persian: بشِ مردم آزار) is a persian fork of [bash-insulter](https://github.com/hkbakke/bash-insulter)
 
