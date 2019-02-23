@@ -11,6 +11,7 @@ print_message () {
         "شت!!"
         "اسکار تایپیست سال میرسه به... ${USER}!"
         "قبل از تایپ کردن یه کم فکر کن!!!"
+        "واقعا ری استارت کردی نسل نویسنده ها رو!"
     )
 
     # If CMD_NOT_FOUND_MSGS array is populated use those messages instead of the defaults
